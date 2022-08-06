@@ -7,7 +7,6 @@ Atualmente estou estudando na escola de desenvolvimento web beTrybe neste ano de
 <br>
 
 <div align="center">
-  <a href="https://github.com/Gustavo-caetano">
   <img height="auto"  src="https://github-readme-stats.vercel.app/api?username=JhonatasAnicezio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></br><br>
     <img height="auto" width="496px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatasAnicezio&layout=compact&langs_count=7&theme=dark"/>
 </div>

@@ -9,8 +9,7 @@ Atualmente estou estudando na escola de desenvolvimento web beTrybe neste ano de
 <div align="center">
   <a href="https://github.com/JhonatasAnicezio">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=JhonatasAnicezio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatasAnicezio&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatasanicezio&layout=compact&langs_count=7&theme=dark"/>
 
 <br>
 

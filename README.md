@@ -2,7 +2,7 @@
 
 Olá meu nome é Jhonatas, sou um programador jr, ainda construindo um portifólio e aprimorando meus conhecimentos.
 
-Atualmente estou estudando na escola de desenvolvimento web beTrybe neste ano de 2022. Tenho como formação até então dentro do curso desenvolvimento frontend, com o foco em tecnologias como Javascript, React.js, Redux, HTML5, CSS, React Hooks, e testes unitarios & assincronos. Estou no momento iniciando o bloco de backend e logo estarei publicando aguns projetos sobre a área.
+Atualmente estou estudando na escola de desenvolvimento web beTrybe neste ano de 2022. Tenho como formação até então dentro do curso desenvolvimento frontend, com o foco em tecnologias como Javascript, React.js, Redux, HTML5, CSS, React Hooks, e testes unitarios. Estou no momento iniciando o bloco de backend e logo estarei publicando aguns projetos sobre a área.
 
 <br>
 

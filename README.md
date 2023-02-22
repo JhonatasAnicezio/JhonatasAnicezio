@@ -1,8 +1,8 @@
 ## Boas vindas ao meu perfil!! 😁
 
-Olá meu nome é Jhonatas, sou um programador jr, ainda construindo um portifólio e aprimorando meus conhecimentos.
+Olá meu nome é Jhonatas Anicezio, sou um programador full-stack junior, ainda construindo um portifólio e aprimorando meus conhecimentos.
 
-Atualmente estou estudando na escola de desenvolvimento web beTrybe neste ano de 2022. Tenho como formação até então dentro do curso desenvolvimento frontend, com o foco em tecnologias como Javascript, React.js, Redux, HTML5, CSS, React Hooks, e testes unitarios. Estou no momento iniciando o bloco de backend e logo estarei publicando aguns projetos sobre a área.
+Atualmente estou trabalhando de forma autonoma de freelancer na plataforma Workana, e terminando meus estudos na escola de desenvolvimento web beTrybe. Tenho como formação, tecnologias como Javascript, React.js, TypeScript, HTML5, CSS, testes unitarios, MySQL, Node.js, API Rest e Arquitetura de software. Por agora estou buscando uma nova oportunidade de emprego para me especializar começar a contruir uma carreira dentro da area.
 
 <br>
 

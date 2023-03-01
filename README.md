@@ -24,7 +24,7 @@ Atualmente estou trabalhando de forma autonoma de freelancer na plataforma Worka
 <br>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/jhonatas-anicezio" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/jhonatas-anicezio" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=JhonatasAnicezio"> -->
 </div>

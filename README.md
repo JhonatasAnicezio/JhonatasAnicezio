@@ -1,8 +1,8 @@
 ## Boas vindas ao meu perfil!! 😁
 
-Me chamo Jhonatas Anicezio, sou um desenvolvedor front-end, ainda construindo um portifólio e aprimorando meus conhecimentos.
+Me chamo Jhonatas Anicezio, sou um desenvolvedor front-end, buscando minha primeira vaga de trabalho!
 
-Atualmente estou trabalhando de forma autonoma de freelancer na plataforma Workana, e terminando meus estudos na escola de desenvolvimento web beTrybe. Tenho como formação, tecnologias como Javascript, React.js, TypeScript, HTML5, CSS, testes unitarios, MySQL, Node.js, API Rest e Arquitetura de software. Por agora estou buscando uma nova oportunidade de emprego para me especializar começar a contruir uma carreira dentro da area.
+Atualmente estou trabalhando de forma autonoma de freelancer na plataforma Workana, e terminando meus estudos na escola de desenvolvimento web beTrybe. Tenho como formação, tecnologias como Javascript, React.js, TypeScript, HTML5, CSS, testes unitarios, MySQL, Node.js, API Rest e Arquitetura de software.
 
 <br>
 

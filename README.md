@@ -1,8 +1,8 @@
 ## Boas vindas ao meu perfil!! 😁
 
-Me chamo Jhonatas Anicezio, sou um desenvolvedor full-stack, buscando minha primeira vaga de trabalho!
+Me chamo Jhonatas Anicezio, sou um desenvolvedor full-stack Node/React!
 
-Atualmente estou trabalhando de forma autonoma de freelancer na plataforma Workana, e terminando meus estudos na escola de desenvolvimento web beTrybe. Tenho como formação, tecnologias como Javascript, React.js, TypeScript, HTML5, CSS, testes unitarios, MySQL, Node.js, API Rest e Arquitetura de software.
+Atualmente estou trabalhando de forma autonoma de freelancer na plataforma Workana, com os conhecimentos que tive na escola de desenvolvimento web beTrybe. Tenho como foco tecnologias como React.js, Next.js, TypeScript, testes unitarios, MySQL, Node.js, API Rest e Arquitetura de software.
 
 <br>
 

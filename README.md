@@ -2,7 +2,8 @@
 
 Me chamo Jhonatas Anicezio, sou um desenvolvedor full-stack Node/React!
 
-Atualmente estou trabalhando de forma autonoma de freelancer na plataforma Workana, com os conhecimentos que tive na escola de desenvolvimento web beTrybe. Tenho como foco tecnologias como React.js, Next.js, TypeScript, testes unitarios, MySQL, Node.js, API Rest e Arquitetura de software.
+Atualmente estou trabalhando de forma autonoma de freelancer na plataforma Workana, e estudando Engenharia de software. Tenho como foco tecnologias como React.js, Next.js, TypeScript, testes unitarios, MySQL, Node.js, API Rest e Arquitetura de software, e a pouco tenho voltado meus estudos para Java com SpringBoot.
+
 
 <br>
 

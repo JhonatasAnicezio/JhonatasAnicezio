@@ -18,6 +18,13 @@
   - ⚡ Sou apaixonado por cozinhar, especialmente quando se trata de preparar confeitaria e massas. Para mim, a cozinha é um espaço onde posso explorar minha criatividade e habilidade técnica. Acredito que a culinária não é apenas uma arte, mas também um meio poderoso de desenvolver uma percepção mais aguçada e resolver problemas de forma inovadora. Cada receita é um novo desafio e uma oportunidade para aprimorar minhas habilidades e criar algo delicioso.
 </details>
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/jhonatas-anicezio" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://jhonatas-anicezio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
+  </a>
+</div>
+
 
 <br>
 
@@ -38,9 +45,3 @@
 </div>
 
 <br>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/jhonatas-anicezio" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=JhonatasAnicezio"> -->
-</div>

@@ -1,8 +1,22 @@
 ## Boas vindas ao meu perfil!! 😁
 
-Me chamo Jhonatas Anicezio, sou um desenvolvedor full-stack Node/React!
+<!-- Presentation -->
+<p>
+  Oi 👋, eu sou o Jhonatas! Sou estudante de Engenharia de Software e trabalho com redes na parte de infraestrutura.
 
-Atualmente estou trabalhando de forma autonoma de freelancer na plataforma Workana, e estudando Engenharia de software. Tenho como foco tecnologias como React.js, Next.js, TypeScript, testes unitarios, MySQL, Node.js, API Rest e Arquitetura de software, e a pouco tenho voltado meus estudos para Java com SpringBoot.
+  - 🌱 Atualmente estou estudando Engenharia de Software enquanto trabalho como dev em um projeto voluntario.
+
+  - 🔭 Estou em busca de minha primeira vaga como dev de forma remunerada.
+</p>
+
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 Sobre mim</summary>
+
+  - 💬 Olá, sou Jhonatas 21 anos. Tenho a habilidade de aprender rapidamente, sou comunicativo e criativo. Sou apaixonado por criar projetos e cozinhar 👨🏾‍🍳, atividades que me desafiam a pensar de maneira prática e inovadora. Estou sempre em busca de novos aprendizados e de aprimorar minhas habilidades, mantendo um foco constante no meu desenvolvimento. Acredito que o progresso contínuo é fundamental tanto na vida profissional quanto pessoal.
+
+  - ⚡ Sou apaixonado por cozinhar, especialmente quando se trata de preparar confeitaria e massas. Para mim, a cozinha é um espaço onde posso explorar minha criatividade e habilidade técnica. Acredito que a culinária não é apenas uma arte, mas também um meio poderoso de desenvolver uma percepção mais aguçada e resolver problemas de forma inovadora. Cada receita é um novo desafio e uma oportunidade para aprimorar minhas habilidades e criar algo delicioso.
+</details>
 
 
 <br>

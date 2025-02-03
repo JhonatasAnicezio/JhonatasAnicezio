@@ -2,7 +2,7 @@
 
 <!-- Presentation -->
 <p>
-  Oi 👋, eu sou o Jhonatas! Sou estudante de Engenharia de Software e trabalho com redes na parte de infraestrutura.
+  Olá! 👋, me chamo Jhonatas! Sou desenvolvedor de software Full-Stack com experiência em infraestrutura de redes.
 
   - 🌱 Atualmente estou estudando Engenharia de Software enquanto trabalho como dev em um projeto voluntario.
 
@@ -13,7 +13,7 @@
 <details>
   <summary>👨‍💻 Sobre mim</summary>
 
-  - 💬 Olá, sou Jhonatas 21 anos. Tenho a habilidade de aprender rapidamente, sou comunicativo e criativo. Sou apaixonado por criar projetos e cozinhar 👨🏾‍🍳, atividades que me desafiam a pensar de maneira prática e inovadora. Estou sempre em busca de novos aprendizados e de aprimorar minhas habilidades, mantendo um foco constante no meu desenvolvimento. Acredito que o progresso contínuo é fundamental tanto na vida profissional quanto pessoal.
+  - 💬 Olá, sou Jhonatas 21 anos. Tenho a habilidade de aprender rapidamente, sou comunicativo e criativo. Gosto de criar projetos, atividades que me desafiam a pensar de maneira prática e inovadora. Estou sempre em busca de novos aprendizados e de aprimorar minhas habilidades, mantendo um foco constante no meu desenvolvimento. Acredito que o progresso contínuo é fundamental tanto na vida profissional quanto pessoal.
 
   - ⚡ Sou apaixonado por cozinhar, especialmente quando se trata de confeitaria e massas. Para mim, a cozinha é um espaço onde posso explorar minha criatividade e habilidade técnica. Acredito que a culinária não é apenas uma arte, mas também um meio poderoso de desenvolver uma percepção mais aguçada e resolver problemas de forma inovadora. Cada receita é um novo desafio e uma oportunidade para aprimorar minhas habilidades e criar algo delicioso.
 </details>

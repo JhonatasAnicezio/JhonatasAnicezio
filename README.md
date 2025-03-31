@@ -2,7 +2,7 @@
 
 <!-- Presentation -->
 <p>
-  Olá! 👋, me chamo Jhonatas! Sou desenvolvedor de software Full-Stack com experiência em infraestrutura de redes.
+  Olá! 👋, me chamo Jhonatas! Sou desenvolvedor de software BackEnd com experiência em infraestrutura de redes.
 
   - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas enquanto trabalho como dev em um projeto voluntario.
 </p>

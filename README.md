@@ -5,8 +5,6 @@
   Olá! 👋, me chamo Jhonatas! Sou desenvolvedor de software Full-Stack com experiência em infraestrutura de redes.
 
   - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas enquanto trabalho como dev em um projeto voluntario.
-
-  - 🔭 Estou em busca de minha primeira vaga como dev de forma remunerada.
 </p>
 
 <!-- Dropdown -->
